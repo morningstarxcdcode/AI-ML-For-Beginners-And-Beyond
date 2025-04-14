@@ -22,16 +22,19 @@
   - Transform data using log transformations.
 
 ## 5. **Feature Engineering**
-- **Methods**: 
+
+- **Methods**:
   - Create new features based on existing ones (e.g., extracting year from date).
   - Polynomial features to capture higher-order relationships.
 
 ## 6. **Splitting the Data**
-- **Methods**: 
+
+- **Methods**:
   - **Train-Test Split**: Split data into training and test sets (e.g., 80/20).
   - **Cross-Validation**: Use k-fold cross-validation for more reliable evaluation.
 
 ## 7. **Text Preprocessing**
-- **Methods**: 
+
+- **Methods**:
   - Tokenization, removing stop words, stemming/lemmatization.
   - Vectorization (TF-IDF, Bag of Words, Word2Vec).

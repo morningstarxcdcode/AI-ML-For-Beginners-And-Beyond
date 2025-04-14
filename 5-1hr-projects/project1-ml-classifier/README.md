@@ -1,6 +1,7 @@
 # 🤖 Project 1: ML Spam Classifier
 
 ## ⏱️ Duration: ~1 Hour  
+
 Build a simple spam classifier using Machine Learning that can predict whether a given message is spam or not.
 
 ---
@@ -46,7 +47,6 @@ Use [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam
 
 ## 📊 Output Sample
 
-
 ---
 
 Accuracy: 98.1% Confusion Matrix: [[...]]
@@ -64,4 +64,3 @@ Accuracy: 98.1% Confusion Matrix: [[...]]
 ## 🔗 Resources
 
 - [Text Classification with Scikit-learn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
-

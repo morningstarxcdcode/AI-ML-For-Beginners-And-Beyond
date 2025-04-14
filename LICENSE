@@ -1,50 +1,21 @@
-MIT License © 2025 morningstarxcd
+# MIT License
 
----
+Copyright (c) 2025 morningstarxcdcode
 
-## 📁 `0-intro/README.md`
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-```markdown
-# 🚀 Intro to AI & ML in 10 Minutes
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-> If you're wondering what AI/ML really means — this is your crash course 🧠⚡
-
----
-
-## 🧠 What is AI?
-AI = Artificial Intelligence  
-Machines that can simulate **thinking, decision-making, and learning**.
-
-Examples: Siri, Alexa, ChatGPT, self-driving cars, Google Search
-
----
-
-## 🧠 What is Machine Learning?
-ML is a subfield of AI where machines learn from **data** instead of being explicitly programmed.
-
-ML uses **patterns in data** to make predictions or decisions.
-
----
-
-## 🔍 Common ML Types
-
-| Type | Example | Use |
-|------|---------|-----|
-| Supervised | Predict prices, spam detection | Has labels |
-| Unsupervised | Group similar users | No labels |
-| Reinforcement | Self-driving car learns rules | Learns via rewards |
-
----
-
-## 📈 Real-Life Examples
-
-- YouTube Recommendations
-- Face Unlock
-- Stock Market Predictions
-- Cyber Threat Detection
-
----
-
-## ✅ Done? Dive into:
-- `1-ml-core` → Start coding linear regression
-- `5-1hr-projects` → Try building a spam classifier!
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

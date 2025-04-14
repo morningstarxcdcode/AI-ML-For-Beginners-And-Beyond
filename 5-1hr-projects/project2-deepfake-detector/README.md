@@ -27,6 +27,7 @@ Use basic image forensics techniques to detect if an image may have been manipul
 ## 📸 Dataset
 
 You can start with sample images:
+
 - [Real Faces Dataset](https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset)
 - [Deepfake Examples](https://www.kaggle.com/datasets/rozumdenis/fakefaces)
 
@@ -46,8 +47,6 @@ You can start with sample images:
 
 Image 1: High resampling artifacts → ⚠️ Possibly fake Image 2: Face landmarks inconsistent → ⚠️ Possibly fake
 
-
-
 ---
 
 ## 💡 Ideas to Extend
@@ -62,4 +61,3 @@ Image 1: High resampling artifacts → ⚠️ Possibly fake Image 2: Face landma
 
 - [Detect Deepfakes with Python](https://www.analyticsvidhya.com/blog/2021/06/detecting-deepfake-images-using-python/)
 - [FFT in Image Forensics](https://pyimagesearch.com/2020/03/30/opencv-fast-fourier-transform-fft-for-image-processing/)
-
