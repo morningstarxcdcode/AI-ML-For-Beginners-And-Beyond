@@ -1,6 +1,7 @@
 # 🤖 AI/ML In 10 Minutes
 
 ## 🔍 What's the Difference?
+
 - **AI** = Machines that can think (e.g., self-driving cars, chatbots)
 - **ML** = AI that learns from data (e.g., predicting house prices)
 - **DL** = ML with deep neural networks (e.g., face detection, GPT)
@@ -8,6 +9,7 @@
 ---
 
 ## 🧠 Types of Machine Learning
+
 | Type               | What it does                                | Example                        |
 |--------------------|----------------------------------------------|--------------------------------|
 | Supervised         | Learns with labeled data                     | Email spam detection           |
@@ -28,6 +30,7 @@
 ---
 
 ## 📚 Popular Libraries
+
 - `scikit-learn`: ML basics
 - `pandas`: Data handling
 - `matplotlib / seaborn`: Charts
@@ -36,7 +39,9 @@
 ---
 
 ## ✅ Why ML is Cool?
+
 You can build:
+
 - Spam filters
 - Face recognition
 - Fraud detectors

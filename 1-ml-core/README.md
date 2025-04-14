@@ -16,6 +16,7 @@
 ---
 
 Each subfolder has:
+
 - ✅ Code notebook (`.ipynb`)
 - 📊 Visuals + graphs
 - 💬 Easy explanations

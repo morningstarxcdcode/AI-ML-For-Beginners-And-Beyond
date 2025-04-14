@@ -1,22 +1,26 @@
 # Data Preprocessing Cheat Sheet
 
 ## 1. **Handling Missing Data**
-- **Methods**: 
+
+- **Methods**:
   - Remove missing data.
   - Impute using mean, median, or mode.
   - Use machine learning models to predict missing values.
 
 ## 2. **Feature Scaling**
-- **Methods**: 
+
+- **Methods**:
   - **Standardization**: Transform data to have a mean of 0 and a standard deviation of 1.
   - **Normalization**: Scale data between 0 and 1.
 
 ## 3. **Encoding Categorical Data**
-- **Methods**: 
+
+- **Methods**:
   - **Label Encoding**: Convert categories to numbers.
   - **One-Hot Encoding**: Create binary columns for each category.
 
 ## 4. **Handling Outliers**
+
 - **Methods**:
   - Remove outliers using statistical methods (IQR, Z-score).
   - Transform data using log transformations.
