@@ -1,0 +1,50 @@
+MIT License © 2025 morningstarxcd
+
+---
+
+## 📁 `0-intro/README.md`
+
+```markdown
+# 🚀 Intro to AI & ML in 10 Minutes
+
+> If you're wondering what AI/ML really means — this is your crash course 🧠⚡
+
+---
+
+## 🧠 What is AI?
+AI = Artificial Intelligence  
+Machines that can simulate **thinking, decision-making, and learning**.
+
+Examples: Siri, Alexa, ChatGPT, self-driving cars, Google Search
+
+---
+
+## 🧠 What is Machine Learning?
+ML is a subfield of AI where machines learn from **data** instead of being explicitly programmed.
+
+ML uses **patterns in data** to make predictions or decisions.
+
+---
+
+## 🔍 Common ML Types
+
+| Type | Example | Use |
+|------|---------|-----|
+| Supervised | Predict prices, spam detection | Has labels |
+| Unsupervised | Group similar users | No labels |
+| Reinforcement | Self-driving car learns rules | Learns via rewards |
+
+---
+
+## 📈 Real-Life Examples
+
+- YouTube Recommendations
+- Face Unlock
+- Stock Market Predictions
+- Cyber Threat Detection
+
+---
+
+## ✅ Done? Dive into:
+- `1-ml-core` → Start coding linear regression
+- `5-1hr-projects` → Try building a spam classifier!
