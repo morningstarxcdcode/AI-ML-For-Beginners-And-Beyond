@@ -1,6 +1,7 @@
 # 🧠 Project 2: Deepfake Detector (Image-based)
 
 ## ⏱️ Duration: ~1 Hour  
+
 Use basic image forensics techniques to detect if an image may have been manipulated using deepfake methods.
 
 ---
