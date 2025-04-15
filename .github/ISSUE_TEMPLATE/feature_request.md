@@ -9,15 +9,16 @@ assignees: ''
 
 ## 💡 Feature Summary
 
-Clearly describe the feature you want to suggest.
+Clearly describe the feature or enhancement you want to suggest. Be concise and specific.
 
 ## 🎯 Purpose
 
-Why is this feature useful for the community or for learning AI/ML?
+Explain why this feature is useful for the community or for learning AI/ML.  
+How does it add value to the repository?
 
 ## 🧠 Suggested Implementation (If any)
 
-How do you think this could be added?
+Provide ideas or steps for implementing this feature. Check all that apply:
 
 - [ ] Add a new notebook
 - [ ] Include sample datasets
@@ -27,4 +28,5 @@ How do you think this could be added?
 
 ## 📌 Additional Info
 
-Add any reference links, articles, or examples if available.
+Add any reference links, articles, or examples that can help with the implementation.  
+Feel free to include diagrams or screenshots if applicable.

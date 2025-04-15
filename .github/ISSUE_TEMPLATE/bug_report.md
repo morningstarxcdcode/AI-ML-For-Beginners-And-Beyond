@@ -9,7 +9,7 @@ assignees: ''
 
 ## 📌 Description
 
-A clear and concise description of the bug you're experiencing.
+Provide a clear and concise description of the bug you're experiencing. Include details about what you were trying to do when the issue occurred.
 
 ## ✅ Steps To Reproduce
 
@@ -21,7 +21,12 @@ Steps to reproduce the behavior:
 
 ## 🖥️ Screenshots / Logs (If Applicable)
 
-If applicable, add screenshots, logs, or code snippets to help explain your problem.
+If applicable, add screenshots, logs, or code snippets to help explain your problem.  
+Use code blocks for logs or error messages:
+
+```text
+<your log or error message here>
+```
 
 ## 💡 Expected Behavior
 

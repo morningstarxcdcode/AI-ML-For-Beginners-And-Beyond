@@ -35,3 +35,62 @@ This repo blends **beginner-friendly learning**, **1-hour quick projects**, and 
 ```bash
 git clone https://github.com/morningstarxcdcode/AI-ML-For-Beginners-And-Beyond.git
 cd AI-ML-For-Beginners-And-Beyond
+```
+
+---
+
+## AI Chat Summarizer
+
+This project demonstrates how to build an **AI-powered chat summarizer** using Hugging Face's Transformers library. The summarizer processes lengthy chat conversations and generates concise summaries, making it easier to extract key points.
+
+## Features
+
+- Summarizes long chat conversations into brief, meaningful summaries.
+- Uses pre-trained models for efficient and accurate text summarization.
+- Easy to integrate into chat applications or customer support tools.
+
+## How to Run
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/morningstarxcdcode/AI-ML-For-Beginners-And-Beyond.git
+    cd AI-ML-For-Beginners-And-Beyond/5-1hr-projects/project3-ai-chat-summarizer
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    pip install transformers
+    ```
+
+3. Run the summarizer script:
+
+    ```bash
+    python summarizer.py
+    ```
+
+## Example
+
+Here's an example of how the summarizer works:
+
+**Input:**
+
+```text
+User: Hi, I need help with my order.
+Support: Sure, can you provide your order ID?
+User: Yes, it's #12345. I haven't received it yet.
+Support: Let me check... It seems there was a delay. You'll receive it by tomorrow.
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
